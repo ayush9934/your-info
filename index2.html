@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Personal site</title>
+</head>
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td>
+                <img  align="right" src="ayush2.jpeg" alt="Ayush Profile picture" height="160" width="160">
+            </td>
+            <td> <h1>Ayush Raj</h1> 
+               <p> Mob:+91 9798612074</p>
+               <p> Email: rayush8240@gmail.com</p>
+        </tr>
+    </table>
+    <hr size="4" noshade>
+    <h3>Objective</h3>
+    <p> To enhance my skills by taking on this challenging position and expending my knowledge</p>
+    <hr size="4" noshade>
+    <h3>About me</h3>
+    <p>My name is Ayush Raj. I am 20 years old. Basically I am from sonpur Bihar. I am student of <em>B.Tech(ECE)</em> currently in 3rd year. Now lets me tell about my family background , My father's name is Uday Kumar Singh. He is an Advocate. My mother's name is Shobha Singh. She is a Housewife. </p>
+    <hr size="4" noshade>
+    <h3>Address</h3>
+    <p>AT: Gopalpur(Mahadali Chak) <br> PO: Gopalpur <br> PS: Nayagaon <br> DISTT.: Saran <br> State: Bihar <br> Pincode: 841217</p>
+    
+    <hr size="4" noshade>
+    <h3><strong>Educational Qualification</strong></h3>
+    <ul>
+     <li><h4>B.Tech:</h4></li>
+    <P>Pursuing B.Tech from I K Gujral Punjab Technical University, Main Campus (Currently in 3rd year)</P>
+    
+     <li><h4>Class 12th:</h4></li>
+    
+    <p>Dr. B.p. Yadav S.S. school from BSEB in 2020 with 73%</p>
+    
+     <li><h4>class 10th :</h4></li>
+    
+    <p>Heritage Public School from CBSE in 2017 with 9.8 CGPA</p>
+ </ul>
+ <hr size="4" noshade>
+    <h3>Skills</h3>
+    <table>
+        <tr>
+            <td>HTML</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>⭐⭐</td>
+        </tr>
+<tr>
+    <td>C++</td>
+    <td>⭐⭐</td>
+</tr>
+</table>
+    <hr size="4" noshade>
+   <h3>Working Experiance </h3>
+   <p>Freshers</p>
+   <hr size="4" noshade>
+   <h3>Hobbies and Strength</h3>
+   <ol>
+    <li>Hard and Smart Working</li>
+    <li>Honest and Punctual</li>
+  <li> Playing Cricket And Learning New Skills</li> 
+  <li>Exploring New Places</li>
+</ol>
+<hr size="4" noshade>
+    <h3>Languages</h3>
+    <ol>
+        <li>Hindi</li>
+        <li>English</li>
+     </ol>
+     <hr size="4" noshade>
+     <h3>Contect me</h3>
+     <ul>
+        <li>
+            <a href="tel:+91 9798612074"tel:+91 9798612074">Call Me</a></a>
+        </li>
+        <li> <a href="mailto:rayush8240@gmail.com">Mail me</a></li>
+        <li>
+          <a href="https://www.instagram.com/ayushsingh6501/">Instagram</a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/profile.php?id=100065410440589">Facebook</a>
+          <li>
+            <a href="https://www.linkedin.com/in/ayush-raj-961468223/">LinkedIn</a>
+          </li>
+        </li>
+        <li>
+          <a href="https://twitter.com/AyushRa74577615">Twitter</a>
+        </li>
+          </ul>
+</body>
+</html>
